@@ -1,8 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/SimonTGR/IPTV_Playlist/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3 综艺" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="📺央视频道",CCTV-3 综艺
-http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4 中文国际" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="📺央视频道",CCTV-4 中文国际
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5 体育" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="📺央视频道",CCTV-5 体育
+http://www.kaniptv.cn/uadl.php?etoken=iyEQ66JaaNGKUbO7ZsFv0NfZAG8oH1bmAFvNcoyYgUWfUE7xA%2BPbZ%2Bl3lAzvWj%2FGtrg2NNltZlAw%2FhlcJomkFVAzB7zQu9Bfi%2FoAk%2FWcJiI4uPVwqQJgyCFn8QmmodRk7EjYY9u4jzuaMgC8Nx%2B0WwSy5wkRlKhp1FI%2BbuvyLmMj5%2Fl7UQA6AeI3q1niYQMO%2Fze%2Bx1vzTbcE9PoYTduEbe14lkk47UPln4e9ZB7OzeXJzeYTK%2FuQjsBTPRbB7QClRFZ29Lx5ZneqYgSIQxkXe0TSEbPAJJulrs34S1gbnee1ZLkAwnGHSHZZVNAfNSqbLJiFAurI4Na8w%2BQz%2BJgpAQ%3D%3D
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11 戏曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11 戏曲.png" group-title="📺央视频道",CCTV-11 戏曲
+http://183.10.180.69:202/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12 社会与法" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="📺央视频道",CCTV-12 社会与法
+http://222.223.41.27:8888/hls/12/index.m3u8
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12 社会与法" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12 社会与法.png" group-title="📺央视频道",CCTV-12 社会与法
+http://183.10.180.69:202/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17 农业农村" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17 农业农村.png" group-title="📺央视频道",CCTV-17 农业农村
+http://183.10.180.69:202/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B04K(%E5%AD%97%E5%B9%95).png" group-title="🌊港·澳·台",翡翠台
 https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🌊港·澳·台",翡翠台
@@ -21,6 +29,8 @@ https://cdn.qd.je/163189/wxxwt
 https://cdn.qd.je/163189/mzt
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/%E6%98%8E%E7%8F%A0%E5%8F%B0(WebVTT%E5%AD%97%E5%B9%95).png" group-title="🌊港·澳·台",明珠台
 https://cdn.qd.je/163189/mztvtt
+#EXTINF:-1 tvg-id="viuTV" tvg-name="viuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="🌊港·澳·台",viuTV
+https://cdn.qd.je/163189/viu
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="🌊港·澳·台",凤凰中文
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="🌊港·澳·台",凤凰资讯
@@ -29,14 +39,14 @@ https://cdn.qd.je/163189/fhzx
 https://cdn.qd.je/163189/gdzj
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="☘️广东频道",广东体育
 https://cdn.qd.je/163189/gdty
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://183.10.180.3:202/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://tb.zbds.top/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://183.10.180.69:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://183.10.180.69:202/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://tb.zbds.top/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南卫视.png" group-title="📡卫视频道",海南卫视
-http://183.10.180.3:202/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
+http://183.10.180.69:202/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://tb.zbds.top/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://tb.zbds.top/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
